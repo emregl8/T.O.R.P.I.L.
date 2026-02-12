@@ -20,3 +20,7 @@ T.O.R.P.I.L. aggregates and analyzes open-source intelligence (OSINT) to:
 - Identify recurring relational patterns  
 - Reveal hidden organizational links  
 - Correlate multi-source intelligence data  
+
+## Usage ⚙️
+
+To be added...

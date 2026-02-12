@@ -3,7 +3,7 @@
 # T.O.R.P.I.L.  
 ## Tracing Organizational and Relational Patterns to Identify Hidden Links
 
-TORPIL is an OSINT-driven intelligence tool designed to trace organizational and relational patterns in order to identify hidden links between individuals, institutions, and influence networks.
+T.O.R.P.I.L. is an OSINT-driven intelligence tool designed to trace organizational and relational patterns in order to identify hidden links between individuals, institutions, and influence networks.
 
 It enables investigators, researchers, journalists, and security professionals to uncover non-obvious connections through structured data analysis, relationship mapping, and intelligent data collection.
 

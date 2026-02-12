@@ -1,4 +1,4 @@
-<img src="torpil.png" alt="Logo" width="600">
+<img src="torpil.png" alt="Logo" width="200">
 
 # T.O.R.P.I.L.  
 ## Tracing Organizational and Relational Patterns to Identify Hidden Links
@@ -13,12 +13,10 @@ It enables investigators, researchers, journalists, and security professionals t
 
 Modern influence networks are rarely visible on the surface. Connections are fragmented across public records, corporate filings, archived pages, infrastructure data, and social metadata.
 
-TORPIL aggregates and analyzes open-source intelligence (OSINT) to:
+T.O.R.P.I.L. aggregates and analyzes open-source intelligence (OSINT) to:
 
 - Map relationships between entities  
 - Detect influence and patronage structures  
 - Identify recurring relational patterns  
 - Reveal hidden organizational links  
 - Correlate multi-source intelligence data  
-
-The system prioritizes **relationship intelligence** over isolated data points.
